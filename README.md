@@ -1,63 +1,87 @@
-<h1 align="center">Hey there👋, I'm Mehedi</h1>
 
 
 
+## Hi there, I'm Mehedi 👋
+A passionate Web Developer 🚀 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi;I+am+a+Junior+Developer)](https://git.io/typing-svg)
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+- 💻 &nbsp;  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
+
+- 🌐 &nbsp; 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
+
+- 🔧 &nbsp; ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+
+<!--
+**aalhabib001/aalhabib001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi33-gk" /> </p>  
   
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mahdi33-gk&theme=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
+</p>
+
  <p align="center">
-  <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" text-anchor="middle" font-size="24" fill="#333" dy=".3em">
-      <tspan fill="darkblue" font-weight="bold">A junior frontend developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh</tspan>
-      <animate attributeName="fill" values="#333;#007acc;#333" dur="3s" repeatCount="indefinite" />
-    </text>
-  </svg>
+  <a href="https://github.com/mahdi33-gk">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true&theme=slateorange&count_private=true">
+  </a>
+  <a href="https://github.com/mahdi33-gk">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=slateorange&langs_count=8" />
+  </a>
+ </p>
+
+Visit my [Portfolio](http://gkmehidy33.info.bd)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com//"><img alt="LinkedIn" src="https://img.shields.io/badge/aalhabib001-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/gk.mehidy3/"><img alt="Facebook" src="https://img.shields.io/badge/aalhabib001-facebook-blue?style=flat&logo=facebook"></a>
+<a href="mailto:meheduvau@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meheduvau@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<br/>
+<!--
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+-->
 
 
-- 📫 How to reach me **meheduvau@gmail.com**
-
-
-
-
-
-## 🌐 Socials:
- 
-<p align="left">
-  <a href="https://linkedin.com/in/gkmehidy/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://facebook.com/gk.mehidy3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
-.<br/>
-. <br/>
-. 
-
-# 💻 Languages and Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-<br/>
-<br/>
-<br/>
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-<br/>
-<br/>
-<br/>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)  
-<br/>
-<br/>
-<br/>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-. <br/>
-. <br/>
-. <br/>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-. <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=dark&hide_border=false)<br/>
-. <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
-- <br/>
-- <br/>
-- <br/>
-[![](https://visitcount.itsvg.in/api?id=mahdi33-gk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
