@@ -12,7 +12,7 @@
   </svg>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mahdi33-gk&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi33-gk" />
+
 
 - 📫 How to reach me **meheduvau@gmail.com**
 
