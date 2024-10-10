@@ -1,16 +1,18 @@
 <h1 align="center">Hey there👋, I'm Mehedi</h1>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 
   
  <p align="center">
   <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
     <text x="50%" y="50%" text-anchor="middle" font-size="24" fill="#333" dy=".3em">
-      <tspan fill="darkblue" font-weight="bold">A junior frontend developer <img src="https://komarev.com/ghpvc/?username=mahdi33-gk&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi33-gk" /> from Bangladesh</tspan>
+      <tspan fill="darkblue" font-weight="bold">A junior frontend developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh</tspan>
       <animate attributeName="fill" values="#333;#007acc;#333" dur="3s" repeatCount="indefinite" />
     </text>
   </svg>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=mahdi33-gk&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi33-gk" />
 
 - 📫 How to reach me **meheduvau@gmail.com**
 
