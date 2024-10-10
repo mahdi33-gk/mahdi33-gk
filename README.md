@@ -16,27 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi33-gk&show_icons=true&locale=en&layout=compact" alt="mahdi33-gk" /></p> 
 
-<style>
-  .animated-text {
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid;
-    width: 0;
-    animation: typing 3s steps(30, end), blink-caret 0.5s step-end infinite;
-  }
 
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  @keyframes blink-caret {
-    50% { border-color: transparent; }
-  }
-</style>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi33-gk&show_icons=true&locale=en&layout=compact" alt="mahdi33-gk" /></p>
 
 <!---
 mahdi33-gk/mahdi33-gk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
