@@ -10,14 +10,14 @@ A passionate Web Developer 🚀
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp;  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+-  &nbsp;  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
 
-- 🌐 &nbsp; 
+-  &nbsp; 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi33-gk" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi33-gk&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi33-gk" /> </p>  
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
  <p align="center">
   <a href="https://github.com/mahdi33-gk">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true&theme=slateorange&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi33-gk&show_icons=true&theme=slateorange&count_private=true">
   </a>
   <a href="https://github.com/mahdi33-gk">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=slateorange&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahdi33-gk&layout=compact&theme=slateorange&langs_count=8" />
   </a>
  </p>
 
@@ -67,12 +67,19 @@ Visit my [Portfolio](http://gkmehidy33.info.bd)
 
 <p align="center">
 
-<a href="https://www.linkedin.com//"><img alt="LinkedIn" src="https://img.shields.io/badge/aalhabib001-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/gk.mehidy3/"><img alt="Facebook" src="https://img.shields.io/badge/aalhabib001-facebook-blue?style=flat&logo=facebook"></a>
+<a href="https://www.linkedin.com//"><img alt="LinkedIn" src="https://img.shields.io/badge/mahdi33-gk-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/gk.mehidy3/"><img alt="Facebook" src="https://img.shields.io/badge/mahdi33-gk-facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:meheduvau@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meheduvau@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
+<!--
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+-->
 <!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
