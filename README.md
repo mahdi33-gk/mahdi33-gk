@@ -84,8 +84,8 @@ Visit my [Portfolio](http://gkmehidy33.info.bd)
 
 <p align="center">
 
-<a href="https://www.linkedin.com//"><img alt="LinkedIn" src="https://img.shields.io/badge/mahdi33-gk/linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/gk.mehidy3/"><img alt="Facebook" src="https://img.shields.io/badge/mahdi33-gk/facebook-blue?style=flat&logo=facebook"></a>
+<a href="https://www.linkedin.com//"><img alt="LinkedIn" src="https://img.shields.io/badge/Mehedi./linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/gk.mehidy3/"><img alt="Facebook" src="https://img.shields.io/badge/MEHEDI/facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:meheduvau@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meheduvau@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
