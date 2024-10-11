@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=dark&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61&hide_border=false)
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&border_color=DDDDDD&stroke=4FDD21&hide_border=false&include_all_commits=true&count_private=true) 
+
 
 ![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&border_color=DDDDDD&stroke=4FDD21&hide_border=false&include_all_commits=true&count_private=true&icon_color=4FDD21)
 
