@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
  <p align="center">
   <a href="https://github.com/mahdi33-gk">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi33-gk&show_icons=true&theme=slateorange&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=slateorangek&hide_border=true&include_all_commits=true&count_private=true">
+   
   </a>
   <a href="https://github.com/mahdi33-gk">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahdi33-gk&layout=compact&theme=slateorange&langs_count=8" />
