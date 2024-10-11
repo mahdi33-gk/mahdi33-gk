@@ -48,11 +48,12 @@ Here are some ideas to get you started:
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahdi33-gk&limit=5&theme=radical&border_color=DDDDDD&stroke=4FDD21&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mahdi33-gk&limit=5&theme=dark&border_color=DDDDDD&stroke=4FDD21&combine_all_yearly_contributions=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mahdi33-gk&icon=0&color=0&border_color=DDDDDD)](https://visitcount.itsvg.in)
+
 
 
 
