@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&border_color=ffffff30&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=dark&border=ffffff30)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&theme=dark&border_color=ffffff30&include_all_commits=true&count_private=true&layout=compact)
 
