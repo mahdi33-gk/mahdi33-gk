@@ -1,11 +1,11 @@
 
 
-<div align="center">
+
 ## Hi there, I'm Mehedi 👋
 A passionate Web Developer 🚀 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi;I+am+a+Junior+Developer)](https://git.io/typing-svg)
-</div>
+
 
 
 
@@ -43,13 +43,16 @@ Here are some ideas to get you started:
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=dark&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61&hide_border=false)
+<div align="center">
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=dark&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61&hide_border=false)
 <br/>
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&border_color=DDDDDD&stroke=4FDD21&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&theme=dark&border_color=DDDDDD&stroke=4FDD21&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&border_color=DDDDDD&stroke=4FDD21&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&theme=dark&border_color=DDDDDD&stroke=4FDD21&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+</div>
 ---
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahdi33-gk&limit=5&theme=dark&border_color=DDDDDD&stroke=4FDD21&combine_all_yearly_contributions=true)
