@@ -42,17 +42,16 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi33-gk&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi33-gk" /> </p>  
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
 <div align="center">
+
  ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=dark&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61&hide_border=false)
 <br/>
-
 
 ![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&border_color=DDDDDD&stroke=4FDD21&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&theme=dark&border_color=DDDDDD&stroke=4FDD21&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 </div>
+
 ---
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahdi33-gk&limit=5&theme=dark&border_color=DDDDDD&stroke=4FDD21&combine_all_yearly_contributions=true)
