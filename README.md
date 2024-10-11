@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahdi33-gk&limit=5&theme=radical&border_color=ffffff30&combine_all_yearly_contributions=true)
 
-</br>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_color=ffffff30)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahdi33-gk&icon=0&color=0)](https://visitcount.itsvg.in)
