@@ -41,16 +41,29 @@ Here are some ideas to get you started:
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=dark&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=dark&border=ffffff30)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&theme=dark&border_color=ffffff30&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=tokyonight&border_color=ffffff30&include_all_commits=true&count_private=true)<br/>
+# 📊 GitHub Stats:
 
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mahdi33-gk&theme=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/mahdi33-gk">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi33-gk&show_icons=true&theme=slateorange&count_private=true">
+  </a>
+  <a href="https://github.com/mahdi33-gk">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahdi33-gk&layout=compact&theme=slateorange&langs_count=8" />
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahdi33-gk&limit=5&theme=radical&border_color=ffffff30&combine_all_yearly_contributions=true)
+---
+
+[![](https://visitcount.itsvg.in/api?id=mahdi33-gk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
 
 
 
