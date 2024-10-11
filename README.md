@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=dark&border=ffffff30)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&theme=dark&border_color=ffffff30&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=tokyonight&border_color=ffffff30&include_all_commits=true&count_private=true)<br/>
+
 
 
 ### 🔝 Top Contributed Repo
