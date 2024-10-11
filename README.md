@@ -1,10 +1,12 @@
 
 
-
+<div align="center">
 ## Hi there, I'm Mehedi 👋
 A passionate Web Developer 🚀 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi;I+am+a+Junior+Developer)](https://git.io/typing-svg)
+</div>
+
 
 
 <h3>🛠 Tech Stack</h3>
