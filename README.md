@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mahdi33-gk&theme=slateorange&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mahdi33-gk&theme=dark&border=DDDDDD&stroke=4FDD21&fire=C7DD4F&currStreakNum=DDDB61"/>
 </p>
 
  <p align="center">
