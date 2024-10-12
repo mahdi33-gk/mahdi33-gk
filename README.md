@@ -67,15 +67,6 @@ Here are some ideas to get you started:
 
 </div>
 
----
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahdi33-gk&limit=5&theme=dark&border_color=DDDDDD&stroke=4FDD21&combine_all_yearly_contributions=true)
-
-
-
-
-
-
 
 
 
