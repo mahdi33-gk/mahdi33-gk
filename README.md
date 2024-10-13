@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 
 
-Visit my [Portfolio](http://gkmehidy33.info.bd)
+Visit my [Portfolio](http://gkmehidy3.info.bd)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
