@@ -1,5 +1,5 @@
  
-
+         
 
 ## Hi there, I'm Mehedi 👋
 A passionate Web Developer 🚀 
@@ -96,7 +96,7 @@ Visit my [Portfolio](http://gkmehidy3.info.bd)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 -->
 <!--
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quote)
 
 <br/>
 
