@@ -51,8 +51,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
- <br/> 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+
 
 
 
@@ -61,6 +60,29 @@ Here are some ideas to get you started:
 
 
 
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: mahdi33-gk
+          template: classic
+          config_timezone: Asia/Dhaka
+          plugin_contributors_activity: yes
+          plugin_contributors_activity_sections: days
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
