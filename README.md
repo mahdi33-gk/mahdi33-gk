@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+ <br/> 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&show_icons=true&theme=transparent)
 
 
 
