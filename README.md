@@ -59,32 +59,17 @@ Here are some ideas to get you started:
 
 
 
-
-name: Update README
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Generate GitHub Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: mahdi33-gk
-          template: classic
-          config_timezone: Asia/Dhaka
-          plugin_contributors_activity: yes
-          plugin_contributors_activity_sections: days
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mahdi33-gk&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mahdi33-gk&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi33-gk&show_icons=true" />
+</picture>
 
 
 
