@@ -31,11 +31,7 @@ A passionate Web Developer 🚀
 
 ---
 
-## 📊 Weekly Stats
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahdi33-gk&theme=react-dark)
 
 ---
 
