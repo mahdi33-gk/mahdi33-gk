@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
  <br/> 
- ![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&show_icons=true&theme=transparent)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 
 
