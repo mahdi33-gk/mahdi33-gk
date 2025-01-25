@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi33-gk&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi33-gk" /> </p>  
+ 
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 <div align="center">
