@@ -1,5 +1,5 @@
 ## Hi there, I'm Mehedi 👋
-A passionate Web Developer 🚀 
+<h1  align="center">A passionate Web Developer 🚀</h1> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi;I+am+a+Junior+Developer)](https://git.io/typing-svg)
 
