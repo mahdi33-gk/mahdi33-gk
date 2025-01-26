@@ -16,7 +16,8 @@ A passionate Web Developer 🚀
 
 ![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&count_private=true&theme=holi&hide_border=false&layout=compact)
+
 
 </div>
 
