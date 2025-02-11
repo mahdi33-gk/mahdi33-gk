@@ -1,3 +1,5 @@
+![Cover Image](githubcover-01.png)
+
 <h1 align="center">## Hi there, I'm Mehedi 👋</h1>
 A passionate Web Developer 🚀 
 
