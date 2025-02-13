@@ -5,7 +5,7 @@
 <div align="center">
   <h3>A MERN Stack Developer 🚀</h3>
   
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi,+a+MERN+Stack+Developer;I+build+web+apps+that+drive+business+growth" alt="Typing SVG">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi,+a+MERN+Stack+Developer;I+build+responsive+web+apps" alt="Typing SVG">
   
 </div>
 
