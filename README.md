@@ -6,6 +6,7 @@
   <h3>A MERN Stack Developer 🚀</h3>
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi;I+am+a+Junior+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Junior+Developer;I+am+Mehedi " alt="Typing SVG">
 </div>
 
 
