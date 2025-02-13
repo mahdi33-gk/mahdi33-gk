@@ -34,7 +34,7 @@
 
 ---
 
-Visit my [Portfolio](http://gkmehidy3.info.bd)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
