@@ -1,11 +1,13 @@
 ![Cover Image](githubcover-01.png)
 
-<h1 align="center"> Hey there, I'm Mehedi 👋 <h1>
- <div align="center">
-A MERN Stack Developer 🚀 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi;I+am+a+Junior+Developer)(https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm Mehedi 👋</h1>
 
+<div align="center">
+  <h3>A MERN Stack Developer 🚀</h3>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi;I+am+a+Junior+Developer" alt="Typing SVG">
 </div>
+
 
 
 
