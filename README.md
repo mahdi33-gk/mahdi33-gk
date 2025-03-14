@@ -26,9 +26,9 @@ I am a Frontend Developer passionate about crafting immersive user experiences. 
 
  ---
 
-🔭 I’m currently pursuing a Diploma in Engineering, specializing in Computer Science and Technology (CST).
-📚 I'm learning web development and related technologies to build a strong foundation for my future career.
-⚡ In my free time, I enjoy solving coding challenges, exploring innovative web design, and staying updated with the latest tech trends.
+🔭 I’m currently pursuing a Diploma in Engineering, specializing in Computer Science and Technology (CST).  <br/>
+📚 I'm learning web development and related technologies to build a strong foundation for my future career.  <br/>
+⚡ In my free time, I enjoy solving coding challenges, exploring innovative web design, and staying updated with the latest tech trends.  <br/>
 
 </p>
 
