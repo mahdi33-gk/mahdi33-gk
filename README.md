@@ -23,9 +23,13 @@ I am a Frontend Developer passionate about crafting immersive user experiences. 
 🔹 Additional Expertise: Geoinformatics (Spatial Data Analysis)
  <br/>
 
+ ---
+
 🔭 I’m currently studying for a diploma in engineering with a focus on Computer Science and Technology (CST).<br>📚 I'm learning web development and related technologies to build a strong foundation for my future career.<br>⚡ In my free time, I enjoy exploring coding challenges, innovative web design, and staying updated with tech trends.
 
 </p>
+
+---
 
 
 
@@ -49,7 +53,7 @@ I am a Frontend Developer passionate about crafting immersive user experiences. 
 
 
 
----
+
 
 
 
