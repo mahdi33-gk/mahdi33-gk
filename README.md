@@ -14,7 +14,7 @@
 <p align="left">
 I am a Frontend Developer passionate about crafting immersive user experiences. I specialize in HTML, CSS, JavaScript, Tailwind CSS, and React.js, building responsive and dynamic web applications. With a keen eye for design and performance, I ensure seamless user experiences across various devices.
 <br/>
-  <h3>Tech Stack:</h3>
+  <h3>🖥️ Tech Stack</h3>
 🔹 HTML, CSS, JavaScript, Tailwind CSS, React.js <br/>
 🔹 UI Libraries: DaisyUI, ShadCN <br/>
 🔹 Backend & APIs: Node.js, Express.js, REST APIs <br/>
@@ -26,7 +26,9 @@ I am a Frontend Developer passionate about crafting immersive user experiences. 
 
  ---
 
-🔭 I’m currently studying for a diploma in engineering with a focus on Computer Science and Technology (CST).<br>📚 I'm learning web development and related technologies to build a strong foundation for my future career.<br>⚡ In my free time, I enjoy exploring coding challenges, innovative web design, and staying updated with tech trends.
+🔭 I’m currently pursuing a Diploma in Engineering, specializing in Computer Science and Technology (CST).
+📚 I'm learning web development and related technologies to build a strong foundation for my future career.
+⚡ In my free time, I enjoy solving coding challenges, exploring innovative web design, and staying updated with the latest tech trends.
 
 </p>
 
