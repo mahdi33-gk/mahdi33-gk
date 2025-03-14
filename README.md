@@ -11,14 +11,21 @@
 
 ###
 
-<p align="left">A web developer is a professional responsible for designing, coding, and maintaining websites and web applications. They handle both front-end development, which involves creating user interfaces and ensuring responsiveness, and back-end development, which includes server-side logic, database management, and API integration. Web developers work with languages like HTML, CSS, JavaScript, and frameworks such as React, or Vue for front-end, and Node.js for back-end. Their role is crucial in building user-friendly, efficient, and secure websites, ensuring optimal performance and seamless user experiences across various devices and platforms.</p>
+<p align="left">👨‍💻 About Me
+I am a Frontend Developer passionate about crafting immersive user experiences. I specialize in HTML, CSS, JavaScript, Tailwind CSS, and React.js, building responsive and dynamic web applications. With a keen eye for design and performance, I ensure seamless user experiences across various devices.
 
-###
+🔹 Tech Stack: HTML, CSS, JavaScript, Tailwind CSS, React.js
+🔹 UI Libraries: DaisyUI, ShadCN
+🔹 Backend & APIs: Node.js, Express.js, REST APIs
+🔹 Database: MongoDB, Firebase
+🔹 Version Control: Git & GitHub
+🔹 Other Skills: Responsive Design, UI/UX, API Integration
+🔹 Additional Expertise: Geoinformatics (Spatial Data Analysis)
+ <br/>
 
-# 💫 About Me:
-Hi, I'm Ibrahim Khoilullah 👋<br>🔭 I’m currently studying for a diploma in engineering with a focus on Computer Science and Technology (CST).<br>📚 I'm learning web development and related technologies to build a strong foundation for my future career.<br>⚡ In my free time, I enjoy exploring coding challenges, innovative web design, and staying updated with tech trends.
+🔭 I’m currently studying for a diploma in engineering with a focus on Computer Science and Technology (CST).<br>📚 I'm learning web development and related technologies to build a strong foundation for my future career.<br>⚡ In my free time, I enjoy exploring coding challenges, innovative web design, and staying updated with tech trends.
 
-
+</p>
 
 
 
