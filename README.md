@@ -13,14 +13,15 @@
 <h2>👨‍💻 About Me</h2>
 <p align="left">
 I am a Frontend Developer passionate about crafting immersive user experiences. I specialize in HTML, CSS, JavaScript, Tailwind CSS, and React.js, building responsive and dynamic web applications. With a keen eye for design and performance, I ensure seamless user experiences across various devices.
-
-🔹 Tech Stack: HTML, CSS, JavaScript, Tailwind CSS, React.js
-🔹 UI Libraries: DaisyUI, ShadCN
-🔹 Backend & APIs: Node.js, Express.js, REST APIs
-🔹 Database: MongoDB, Firebase
-🔹 Version Control: Git & GitHub
-🔹 Other Skills: Responsive Design, UI/UX, API Integration
-🔹 Additional Expertise: Geoinformatics (Spatial Data Analysis)
+<br/>
+  <h3>Tech Stack:</h3>
+🔹 HTML, CSS, JavaScript, Tailwind CSS, React.js <br/>
+🔹 UI Libraries: DaisyUI, ShadCN <br/>
+🔹 Backend & APIs: Node.js, Express.js, REST APIs <br/>
+🔹 Database: MongoDB, Firebase <br/>
+🔹 Version Control: Git & GitHub <br/>
+🔹 Other Skills: Responsive Design, UI/UX, API Integration <br/>
+🔹 Additional Expertise: Geoinformatics (Spatial Data Analysis) <br/>
  <br/>
 
  ---
