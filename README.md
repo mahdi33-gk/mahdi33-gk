@@ -10,8 +10,8 @@
 </div>
 
 ###
-
-<p align="left">👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
+<p align="left">
 I am a Frontend Developer passionate about crafting immersive user experiences. I specialize in HTML, CSS, JavaScript, Tailwind CSS, and React.js, building responsive and dynamic web applications. With a keen eye for design and performance, I ensure seamless user experiences across various devices.
 
 🔹 Tech Stack: HTML, CSS, JavaScript, Tailwind CSS, React.js
